@@ -4,7 +4,7 @@
 
 Clone this directory and upload the unpackaged files to your chrome browser in the browser extensions settings.
 
-o to Menu >> Settings >> Extensions and click "Load unpacked." Select the cloned directory to upload the extension.
+Go to Menu >> Settings >> Extensions and click "Load unpacked." Select the cloned directory to upload the extension.
 
 ## What does this extension do?
 
